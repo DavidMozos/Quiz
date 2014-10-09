@@ -28,6 +28,7 @@ public class Activity_Quiz extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_activity__quiz);
 
+        // To do - Hay que acabar esto ya!
 
     }
 
