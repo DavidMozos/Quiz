@@ -83,7 +83,7 @@ public class Activity_Quiz extends Activity {
             messageId = R.string.incorrect_toast;
         }
 
-        Toast.makeText(this, messageId, Toast.LENGTH_SHORT);
+        Toast.makeText(this, messageId, Toast.LENGTH_SHORT).show();
     }
 
 
